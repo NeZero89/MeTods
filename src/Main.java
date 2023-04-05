@@ -51,7 +51,7 @@ public class Main {
 
     public static void task3() {
         System.out.println("Задача №3");
-        int diliveryDistsnce=101;
+        int diliveryDistsnce=10;
         diliveryDistanceCl(diliveryDistsnce);
 
 
